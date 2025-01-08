@@ -52,4 +52,3 @@ if verify:
 
 # Footer
 st.markdown("---")
-st.write("Thank you for updating your profile!")
